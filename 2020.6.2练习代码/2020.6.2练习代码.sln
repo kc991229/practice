@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2020.6.2练习代码", "2020.6.2练习代码\2020.6.2练习代码.vcxproj", "{B0424D2A-C793-43D1-A95A-6E35FC54D331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0424D2A-C793-43D1-A95A-6E35FC54D331}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B0424D2A-C793-43D1-A95A-6E35FC54D331}.Debug|Win32.Build.0 = Debug|Win32
+		{B0424D2A-C793-43D1-A95A-6E35FC54D331}.Release|Win32.ActiveCfg = Release|Win32
+		{B0424D2A-C793-43D1-A95A-6E35FC54D331}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
