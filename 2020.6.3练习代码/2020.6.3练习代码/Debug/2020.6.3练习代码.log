@@ -1,0 +1,15 @@
+﻿生成启动时间为 2020/6/4 8:44:46。
+     1>项目“E:\源代码\2020.6.3练习代码\2020.6.3练习代码\2020.6.3练习代码.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt text.cpp
+         text.cpp
+     1>e:\源代码\2020.6.3练习代码\2020.6.3练习代码\function.h(58): warning C4018: “>”: 有符号/无符号不匹配
+     1>e:\源代码\2020.6.3练习代码\2020.6.3练习代码\text.cpp(16): warning C4101: “num”: 未引用的局部变量
+       Link:
+         D:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\源代码\2020.6.3练习代码\Debug\2020.6.3练习代码.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\源代码\2020.6.3练习代码\Debug\2020.6.3练习代码.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\源代码\2020.6.3练习代码\Debug\2020.6.3练习代码.lib" /MACHINE:X86 Debug\text.obj
+         2020.6.3练习代码.vcxproj -> E:\源代码\2020.6.3练习代码\Debug\2020.6.3练习代码.exe
+     1>已完成生成项目“E:\源代码\2020.6.3练习代码\2020.6.3练习代码\2020.6.3练习代码.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.97
