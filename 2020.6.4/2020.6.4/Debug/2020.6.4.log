@@ -1,0 +1,16 @@
+﻿生成启动时间为 2020/6/4 21:34:52。
+     1>项目“E:\practice\2020.6.4\2020.6.4\2020.6.4.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt text.cpp
+         text.cpp
+     1>e:\practice\2020.6.4\2020.6.4\text.cpp(13): warning C4305: “初始化”: 从“int”到“char”截断
+     1>e:\practice\2020.6.4\2020.6.4\text.cpp(13): warning C4309: “初始化”: 截断常量值
+     1>e:\practice\2020.6.4\2020.6.4\text.cpp(22): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+       Link:
+         D:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\practice\2020.6.4\Debug\2020.6.4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\practice\2020.6.4\Debug\2020.6.4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\practice\2020.6.4\Debug\2020.6.4.lib" /MACHINE:X86 Debug\text.obj
+         2020.6.4.vcxproj -> E:\practice\2020.6.4\Debug\2020.6.4.exe
+     1>已完成生成项目“E:\practice\2020.6.4\2020.6.4\2020.6.4.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.88
