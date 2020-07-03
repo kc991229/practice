@@ -46,7 +46,7 @@ string str_add(string str1, string str2)
 	int num = 1;
 	string::reverse_iterator it2 = str2.rbegin();
 	string::reverse_iterator it1 = str1.rbegin();
-	for (; it2 != str2.rend() && it1 != str1.rend(); it2++, it1++)
+	while ( it2 != str2.rend() && it1 != str1.rend())
 	{
 		int temp = 0;
 		temp = (*it1 - '0' + *it2 - '0' + ret) % 10;
