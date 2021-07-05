@@ -91,7 +91,8 @@ int main()
 {
 	vector<int> vc(5, 2);
 	vector<int>::iterator it = vc.begin();
-	vc.erase(it);
-	cout << *it;
+	auto its = vc.end();
+	cout << *it << endl;
+	cout << *its << endl;
 	return 0;
 }
