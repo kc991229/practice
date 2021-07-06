@@ -88,7 +88,7 @@ public:
     swap(str_, tmp_str.str_);
   }
   MyString& operator=(const MyString& str) {
-    if (this != str) {
+    if (*this != str) {
       MyString tmp(str);
       swap(str_, tmp.str_);
     }
@@ -105,7 +105,6 @@ public:
 private:
   char* str_;
   size_t size_;
-  size_t capacity_;
 };
 
 int main()
